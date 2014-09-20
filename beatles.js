@@ -1,1 +1,1 @@
-var thing = "The thing";
+console.log("Hard Day's Night");

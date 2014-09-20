@@ -1,1 +1,1 @@
-console.log("Annie");
+var name = "Annie";
